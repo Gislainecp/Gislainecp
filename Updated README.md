@@ -17,6 +17,9 @@ Eu sou a Gislaine Cuba Paulino sou uma Programadora Front End, atualmente estou 
  <br>
 
 [![Gislaine stats](https://github-readme-stats.vercel.app/api?username=Gislainecp)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gislainecp)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
